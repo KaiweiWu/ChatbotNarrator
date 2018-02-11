@@ -1,0 +1,40 @@
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\Bot Application.dll.config
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\Bot Application.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\Bot Application.pdb
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\Autofac.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\Chronic.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\Microsoft.Bot.Builder.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\Microsoft.Bot.Connector.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\Newtonsoft.Json.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\System.Net.Http.Formatting.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\System.Web.Http.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\System.Web.Http.WebHost.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\Autofac.xml
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\Microsoft.Bot.Builder.xml
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\Microsoft.Bot.Connector.xml
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\Newtonsoft.Json.xml
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\System.Net.Http.Formatting.xml
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\System.Web.Http.xml
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\System.Web.Http.WebHost.xml
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\obj\Debug\ChatbotNarrator.csprojResolveAssemblyReference.cache
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\obj\Debug\Bot Application.dll
+D:\Chatbot\ChatbotNarrator\ChatbotNarrator\obj\Debug\Bot Application.pdb
